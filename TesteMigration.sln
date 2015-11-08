@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFram", "EntityFram\EntityFram.csproj", "{05496FE6-98AB-47EB-986E-72E36D5FFDE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTeste", "UnitTeste\UnitTeste.csproj", "{A9D172E1-9526-486F-993F-8C5539378B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeesteWeb", "TeesteWeb\TeesteWeb.csproj", "{CDB5425F-6C28-4C90-9A61-153B7A701285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05496FE6-98AB-47EB-986E-72E36D5FFDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05496FE6-98AB-47EB-986E-72E36D5FFDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05496FE6-98AB-47EB-986E-72E36D5FFDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05496FE6-98AB-47EB-986E-72E36D5FFDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D172E1-9526-486F-993F-8C5539378B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D172E1-9526-486F-993F-8C5539378B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D172E1-9526-486F-993F-8C5539378B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D172E1-9526-486F-993F-8C5539378B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB5425F-6C28-4C90-9A61-153B7A701285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB5425F-6C28-4C90-9A61-153B7A701285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB5425F-6C28-4C90-9A61-153B7A701285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB5425F-6C28-4C90-9A61-153B7A701285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
