@@ -10,6 +10,9 @@ namespace EntityFram.Entidade
 {
     public class Categoria
     {
+
+
+
         public int Codigo { get; set; }
 
         public int CodigoUsuario { get; set; }
