@@ -13,7 +13,7 @@ namespace EntityFram.Entidade
         public int Codigo { get; set; }
 
         public int CodigoUsuario { get; set; }
-
+        
         public string Nome { get; set; }
 
         public virtual Usuario Usuario { get; set; }
