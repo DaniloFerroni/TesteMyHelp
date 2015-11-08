@@ -20,6 +20,7 @@ namespace TeesteWeb.Controllers
 
         public AccountController()
         {
+            
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
