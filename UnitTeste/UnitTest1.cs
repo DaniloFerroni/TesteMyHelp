@@ -13,6 +13,8 @@ namespace UnitTeste
             var usuario = new Usuario
             {
                 Codigo = 1,
+
+
                 //Nome = "Danilo",
                 Email = "danilo_ferroni09@hotmail.com"
             };
